@@ -76,3 +76,6 @@ crashlytics-build.properties
 
 # Ignore IDEA Folder
 .idea/
+
+# VS Code Folder
+vscode/
