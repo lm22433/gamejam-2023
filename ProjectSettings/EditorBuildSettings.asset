@@ -9,7 +9,7 @@ EditorBuildSettings:
     path: Assets/Scenes/Main Menu.unity
     guid: 6d64301bdbf9b465cad95d865954be90
   - enabled: 1
-    path: Assets/Scenes/Circuit Scramble/Circuit Scramble - Level 1.unity
+    path: Assets/Scenes/Circuit Scramble/Circuit Scramble - Level 3.unity
     guid: 5af53b11651af4c019eb50ae66ceeced
   - enabled: 0
     path: Assets/Scenes/Level 1.unity
