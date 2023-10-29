@@ -9,8 +9,7 @@ public class Minigame1Move : MonoBehaviour
    public int sceneBuildIndex;
 
    private void OnTriggerEnter2D(Collider2D other){
-        if(other.tag == "Jarvis_Normal_1"){
-            
+        if(other.CompareTag("Player")){
             SceneManager.LoadScene(sceneBuildIndex, LoadSceneMode.Single);
         }
    }
