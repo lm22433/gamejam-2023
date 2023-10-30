@@ -1,9 +1,10 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class PlayerMovement : MonoBehaviour
 {
+    private static PlayerMovement _instance;
+
     // Start is called before the first frame update
     public float moveSpeed = 100f;
 

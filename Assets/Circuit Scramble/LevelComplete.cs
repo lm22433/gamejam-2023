@@ -7,7 +7,7 @@ public class LevelComplete : MonoBehaviour
     public Texture2D levelComplete;
     public Texture2D levelNotComplete;
     public LogicOutput input;
-    
+
     public void Update()
     {
         CheckWin();
@@ -28,6 +28,19 @@ public class LevelComplete : MonoBehaviour
 
     void Win()
     {
+        LevelManager levelManager = FindObjectOfType<LevelManager>();
+        if (this.CompareTag("Minigame1"))
+        {
+            levelManager.interact1 = true;
+        }
+        else if (this.CompareTag("Minigame2"))
+        {
+            levelManager.interact2 = true;
+        }
+        else if (this.CompareTag("Minigame3"))
+        {
+            levelManager.interact3 = true;
+        }
         SceneManager.LoadScene(1, LoadSceneMode.Single);
     }
 }

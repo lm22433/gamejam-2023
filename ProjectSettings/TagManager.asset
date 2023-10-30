@@ -5,6 +5,9 @@ TagManager:
   serializedVersion: 2
   tags:
   - Lvl1Walls
+  - Minigame1
+  - Minigame2
+  - Minigame3
   layers:
   - Default
   - TransparentFX
