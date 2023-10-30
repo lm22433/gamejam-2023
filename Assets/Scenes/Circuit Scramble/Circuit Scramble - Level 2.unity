@@ -1009,7 +1009,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 455ddf86396354901b6f1262bb3b5847, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  spriteRenderer: {fileID: 0}
+  spriteRenderer: {fileID: 1279091504}
   levelComplete: {fileID: 2800000, guid: 38058cad1b29f439d98c2728dec54709, type: 3}
   levelNotComplete: {fileID: 2800000, guid: c4f35c96ff4ff4de086d914c8343bae3, type: 3}
   input: {fileID: 345960633}
