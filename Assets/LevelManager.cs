@@ -9,6 +9,8 @@ public class LevelManager : MonoBehaviour
     public bool interact2 = false;
     public bool interact3 = false;
 
+
+
     private void Awake()
     {
         if (_instance == null)
