@@ -928,7 +928,7 @@ GameObject:
   - component: {fileID: 105044626}
   m_Layer: 0
   m_Name: Object_1
-  m_TagString: Untagged
+  m_TagString: Minigame1
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4009,7 +4009,7 @@ GameObject:
   - component: {fileID: 429010251}
   m_Layer: 0
   m_Name: Object_2
-  m_TagString: Untagged
+  m_TagString: Minigame2
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6930,7 +6930,6 @@ GameObject:
   m_Component:
   - component: {fileID: 771179540}
   - component: {fileID: 771179537}
-  - component: {fileID: 771179539}
   - component: {fileID: 771179538}
   m_Layer: 5
   m_Name: Jarvis_Camera
@@ -7004,14 +7003,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   FollowSpeed: 2
   target: {fileID: 1431352391}
---- !u!81 &771179539
-AudioListener:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 771179536}
-  m_Enabled: 1
 --- !u!224 &771179540
 RectTransform:
   m_ObjectHideFlags: 0
@@ -7753,7 +7744,7 @@ GameObject:
   - component: {fileID: 1015389515}
   m_Layer: 0
   m_Name: Object_3
-  m_TagString: Untagged
+  m_TagString: Minigame3
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
