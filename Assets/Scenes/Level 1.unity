@@ -945,7 +945,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e3cd64c9877b74ca498b66d97d2aa7e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sceneBuildIndex: 0
+  sceneBuildIndex: 3
 --- !u!61 &105044627
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -10560,7 +10560,7 @@ GameObject:
   - component: {fileID: 1431352392}
   m_Layer: 0
   m_Name: Jarvis_Normal_1
-  m_TagString: Untagged
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

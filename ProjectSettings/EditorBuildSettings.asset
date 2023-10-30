@@ -11,4 +11,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Level 1.unity
     guid: 1ef81c19b1ace46c2a4847e37bc86fbc
+  - enabled: 1
+    path: Assets/Scenes/Circuit Scramble/Circuit Scramble - Level 3.unity
+    guid: 5af53b11651af4c019eb50ae66ceeced
+  - enabled: 1
+    path: Assets/Scenes/Circuit Scramble/Circuit Scramble - Level 1.unity
+    guid: 19dffbf8aa469489a872c07b294accac
   m_configObjects: {}
